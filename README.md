@@ -7,6 +7,8 @@ The output of the documenting is saved in a csv file and be used for Textminning
 
 ### Questions:
 Ozkan Sener
+
 ozkansener@gmail.com
+
 Vrije Universiteit Amsterdam
 
